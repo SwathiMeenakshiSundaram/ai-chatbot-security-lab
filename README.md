@@ -83,7 +83,9 @@ Example normal questions:
 
 ![Normal chatbot response](screenshots/chatbot-normal-response.png)
 
+### Security Testing Dashboard
 
+![Security testing dashboard](screenshots/security-dashboard.png)
 
 ### 2. Security Detection Logic
 
