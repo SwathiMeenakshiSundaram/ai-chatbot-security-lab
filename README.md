@@ -216,3 +216,10 @@ http://localhost:8501
 
 Open that URL in your browser to use the app.
 
+## Author
+
+Created by Swathi Meenakshi Sundaram.
+
+## License
+
+This project is shared for educational and portfolio purposes. Please give proper credit if you reference or reuse any part of this project.
