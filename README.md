@@ -87,6 +87,10 @@ Example normal questions:
 
 ![Security testing dashboard](screenshots/security-dashboard.png)
 
+### Security Logs with Risk Classification
+
+![Security logs with risk classification](screenshots/security-logs.png)
+
 ### 2. Security Detection Logic
 
 Before the chatbot answers, the user input is checked for risky phrases.
