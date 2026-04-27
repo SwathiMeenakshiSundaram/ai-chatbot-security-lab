@@ -77,6 +77,14 @@ Example normal questions:
 
 ---
 
+## Screenshots
+
+### Normal Chatbot Response
+
+![Normal chatbot response](screenshots/chatbot-normal-response.png)
+
+
+
 ### 2. Security Detection Logic
 
 Before the chatbot answers, the user input is checked for risky phrases.
