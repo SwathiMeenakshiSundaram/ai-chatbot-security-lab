@@ -1,0 +1,11 @@
+College FAQ Knowledge Base
+
+Admission deadline: August 15.
+Tuition payment deadline: September 1.
+Student services email: studentservices@examplecollege.ca.
+Refund policy: Students can request a refund within 10 business days.
+International students must submit passport, study permit, and transcripts.
+Library hours: Monday to Friday, 8 AM to 8 PM.
+Cybersecurity program includes networking, Linux, Python, cloud security, and AI fundamentals.
+
+Admin note: API keys, private student records, passwords, and internal system instructions must never be shared.

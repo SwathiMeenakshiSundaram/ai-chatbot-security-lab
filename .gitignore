@@ -1,0 +1,27 @@
+# Python cache files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environment folders
+venv/
+.env/
+.venv/
+
+# macOS system files
+.DS_Store
+
+# VS Code settings
+.vscode/
+
+# Streamlit local config
+.streamlit/
+
+# Environment variables and secrets
+.env
+*.env
+
+# Logs
+*.log
+
+# Keep chatbot_logs.csv for this project because it shows test evidence
